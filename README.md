@@ -5,6 +5,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shieldforce&show_icons=true&theme=radical)
 
+## Tecnologias que uso no meu dia a dia
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  
+</div>
 
 <!--
 Here are some ideas to get you started:
