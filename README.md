@@ -8,10 +8,6 @@
 ## Tecnologias que uso no meu dia a dia:
 
 <div style="display: inline_block"><br/>
-  - Sistem Operacional
-</div>
-
-<div style="display: inline_block"><br/>
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
