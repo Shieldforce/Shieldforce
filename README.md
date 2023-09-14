@@ -9,15 +9,16 @@
 
 <div style="display: inline_block;width:100%;"><br/>
   <div  style="width:100%;">-Sistemas Operacionais</div>
-  <img align="center" alt="Ubuntu 22.04LTS" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img align="center" alt="ArcLinux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img style="width:20%;height:50px !important;" align="center" alt="Ubuntu 22.04LTS" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img style="width:20%;height:50px !important;" align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img style="width:20%;height:50px !important;" align="center" alt="ArcLinux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img style="width:20%;height:50px !important;" align="center" alt="ArcLinux" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <hr>
 
   <div  style="width:100%;">-IDEs</div>
-  <img align="center" alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
-  <img align="center" alt="Intelij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img align="center" alt="PHPStorm" src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" />
+  <img style="width:20%;height:50px !important;" align="center" alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
+  <img style="width:20%;height:50px !important;" align="center" alt="Intelij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img style="width:20%;height:50px !important;" align="center" alt="PHPStorm" src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" />
   <hr>
 
   <div  style="width:100%;">-Linguagens</div>
