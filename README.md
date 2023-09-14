@@ -3,6 +3,8 @@
 [![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&url=https://shieldforce.com.br/)](https://shieldforce.com.br)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white?url=https://www.youtube.com/channel/UCaJpJBIhSqccwGBE0-KnWHQ)]([https://shieldforce.com.br](https://www.youtube.com/channel/UCaJpJBIhSqccwGBE0-KnWHQ))
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shieldforce&show_icons=true&theme=radical)
+
 
 <!--
 Here are some ideas to get you started:
