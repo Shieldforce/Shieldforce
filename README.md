@@ -7,17 +7,18 @@
 
 ## Tecnologias que uso no meu dia a dia:
 
-<div style="display: inline_block"><br/>
-  -Sistema Operacional
-  ---
+<div style="display: inline_block;width:100%;"><br/>
+  <div  style="width:100%;">-Sistema Operacional</div>
   <img align="center" alt="Ubuntu 22.04LTS" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img align="center" alt="ArcLinux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <hr>
 
-  - IDEs
+  <div  style="width:100%;">-IDEs</div>
   <img align="center" alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
   <img align="center" alt="Intelij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img align="center" alt="PHPStorm" src=" http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" />
+  <hr>
   
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
