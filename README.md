@@ -23,18 +23,18 @@
   <hr>
 
   <div  style="width:100%;">-Linguagens</div>
-  <img style="width:20%;height:50px !important;margin-bottom:5px !important;" align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img style="width:20%;height:50px !important;margin-bottom:5px;" align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img style="width:20%;height:50px !important;margin-bottom:5px;" align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img style="width:20%;height:50px !important;margin-bottom:5px;" align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img style="width:20%;height:50px !important;margin-bottom:5px;" align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img style="width:20%;height:50px !important;margin-bottom:5px;" align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img style="width:20%;height:50px !important;margin-bottom:5px;" align="center" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img style="width:20%;height:50px !important;margin-bottom:5px;" align="center" alt="VUE.JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img style="width:20%;height:50px !important;margin-bottom:5px;" align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img style="width:20%;height:50px !important;margin-bottom:5px;" align="center" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img style="width:20%;height:50px !important;margin-bottom:5px;" align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img style="width:20%;height:50px !important;margin-bottom:5px;" align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img style="width:20%;height:50px !important;margin-top:5px;" align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img style="width:20%;height:50px !important;margin-top:5px;" align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img style="width:20%;height:50px !important;margin-top:5px;" align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img style="width:20%;height:50px !important;margin-top:5px;" align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img style="width:20%;height:50px !important;margin-top:5px;" align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img style="width:20%;height:50px !important;margin-top:5px;" align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img style="width:20%;height:50px !important;margin-top:5px;" align="center" alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img style="width:20%;height:50px !important;margin-top:5px;" align="center" alt="VUE.JS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img style="width:20%;height:50px !important;margin-top:5px;" align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img style="width:20%;height:50px !important;margin-top:5px;" align="center" alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img style="width:20%;height:50px !important;margin-top:5px;" align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img style="width:20%;height:50px !important;margin-top:5px;" align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <hr>
 
   <div  style="width:100%;">-Bancos de Dados</div>
