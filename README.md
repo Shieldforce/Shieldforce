@@ -1,6 +1,6 @@
 ### Olá, Meu nome é Alexandre Ferreira 👋
 
-[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shieldforce.com.br)
+[![Site](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&url=https://shieldforce.com.br)](https://shieldforce.com.br)
 
 <!--
 **Shieldforce/Shieldforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
