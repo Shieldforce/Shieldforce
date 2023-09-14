@@ -19,6 +19,7 @@
   <img style="width:20%;height:50px !important;" align="center" alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
   <img style="width:20%;height:50px !important;" align="center" alt="Intelij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img style="width:20%;height:50px !important;" align="center" alt="PHPStorm" src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" />
+  <img style="width:20%;height:50px !important;" align="center" alt="PHPStorm" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <hr>
 
   <div  style="width:100%;">-Linguagens</div>
